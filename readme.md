@@ -10,5 +10,5 @@
 
 4. Instalar el navegador **palemoon-29.1.0.win64.installer.exe**
 
-5. Ejecutar el navegador palemoon, dentro de este navegador ya puede acceder a los equipos Deliberant
+5. Ejecutar el navegador palemoon, dentro de este navegador ya puede acceder a los equipos Deliberant o cualquier aplicación que tenga flash player
 
